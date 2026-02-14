@@ -34,8 +34,8 @@ Dalam pengambilan foto secara manual (tanpa tripod), sering kali terjadi pergese
 
 🛠️ Cara Instalasi dan Setup
 1. Clone repositori ini:
-git clone [[https://github.com/username/sift-panorama-kkn.git](https://github.com/GustiAhmad/Final-Project-Computer-Vision.git]([https://github.com/username/sift-panorama-kkn.git](https://github.com/GustiAhmad/Final-Project-Computer-Vision.git))
-cd sift-panorama-kkn
+git clone [https://github.com/GustiAhmad/Final-Project-Computer-Vision.git](https://github.com/GustiAhmad/Final-Project-Computer-Vision.git)
+cd Final-Project-Computer-Vision
 
 2. Buat Virtual Environment (Opsional namun disarankan):
 python -m venv venv
@@ -78,4 +78,5 @@ Sistem akan menghasilkan output berupa:
 - Mata Kuliah: Visi Komputer
 - Institusi: Universitas Darussalam Gontor
 - Tahun: 2026
+
 
